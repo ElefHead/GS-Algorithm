@@ -1,0 +1,10 @@
+abe: abi, eve, cath, ivy, jan, dee, fay, bea, hope, gay
+bob: cath, hope, abi, dee, eve, fay, bea, jan, ivy, gay
+col: hope, eve, abi, dee, bea, fay, ivy, gay, cath, jan
+dan: ivy, fay, dee, gay, hope, eve, jan, bea, cath, abi
+ed: jan, dee, bea, cath, fay, eve, abi, ivy, hope, gay
+fred: bea, abi, dee, gay, eve, ivy, cath, jan, hope, fay
+gav: gay, eve, ivy, bea, cath, abi, dee, hope, jan, fay
+hal: abi, eve, hope, fay, ivy, cath, jan, bea, gay, dee
+ian: hope, cath, dee, gay, bea, abi, fay, ivy, jan, eve
+jon: abi, fay, jan, gay, eve, bea, dee, cath, ivy, hope
