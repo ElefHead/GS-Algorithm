@@ -23,9 +23,8 @@ free_women = list(range(len(W)))
 ## Optional : All random preferences, comment all above code to run below code
 ###
 
-# men = list(range(10))
-# print(men)
-# women = list(range(10))
+# men = list(range(10000))
+# women = list(range(10000))
 # pref_men = dict((m,sample(range(0,len(men)),len(men))) for m in men)
 # pref_women = dict((w, sample(range(0,len(women)),len(women))) for w in women)
 # M = deepcopy([(k,v) for (k,v) in pref_men.items()])
